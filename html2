@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+
+<head lang="ja">
+<link rel="stylesheet" href="sty.css" type="text/css">
+<meta http-equiv="Content-Type"
+                  content="text/html; charset=UTF-8"/>
+<title>
+自己紹介
+</title>
+
+</head>
+  
+<h1>自己紹介</h1>
+
+<ul>
+<li>名前：工藤龍采</li>
+<li>学籍番号：s1290215</li>
+<li>誕生日：1月19日</li>
+<li>血液型：A型</li>
+<li>趣味：釣り</li>
+<li>好きな食べ物：ラーメン</li>
+</ul>
+
+</html>
